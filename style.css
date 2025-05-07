@@ -151,7 +151,7 @@ p {
 }
 
 .conabout .about .about-img {
-  flex: 1 1 30rem;
+  flex-basis: 30rem;
 }
 
 .conabout .about .about-img img {
@@ -161,7 +161,7 @@ p {
 }
 
 .conabout .about .aboutisi {
-  flex: 1 1 35rem;
+  flex-basis: 35rem;
   padding-right: 150px;
 }
 
@@ -426,7 +426,7 @@ p {
 }
 
 .find .row .map {
-  flex: 1 1 45rem;
+  flex-basis: 45rem;
   width: 100%;
   object-fit: cover;
 }
